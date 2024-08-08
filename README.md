@@ -23,5 +23,9 @@ https://www.youtube.com/watch?v=pVJK5d7LYAI&t=169s
 https://in.mathworks.com/help/sps/ug/power-converters-dab-1ph.html	
 
 
+all graphs discription to each graphs is given in "report meterial.doc"
+
+
+
 
 
